@@ -20,7 +20,7 @@ enforcing invariance can be harmful when symmetry assumptions conflict with the
 semantics of the problem.
 
 <p align="center">
-  <img src="invariance_failure.png" width="600">
+  <img src="c:\GitHub\marked-point-invariance-failure\notebooks\invariance_failure.png" width="600">
 </p>
 
 ## Key Takeaway
